@@ -19,6 +19,7 @@ body {
 
 .container {
     margin: 0 auto;
+    max-width: 1140px;
 }
 
 .container .info-principal {
@@ -80,13 +81,26 @@ body {
     margin: 40px 20px;
 }
 
-.footer .social i {
-    font-size: 4.5rem;
-    padding: 0 10px;
-    color: #ffffff;
-    transition: 0.3s;
+.footer .social a {
+    padding-left: 10px;
 }
 
-.footer .social a i:hover {
+.footer .social i {
+    font-size: 2.5rem;
+    color: #ffffff;
+    border-radius: 50%;
+    transition: 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid #ffffff;
+    text-align: center;
+}
+
+.footer .social i:hover {
     color: var(--primary-soft);
+    border: 2px solid var(--primary-soft);
 }
