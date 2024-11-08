@@ -56,8 +56,9 @@ body {
 .container .info-principal .info-secundaria .btn-register {
     border: none;
     border-radius: 30px;
+    padding: 18px 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     width: 220px;
-    height: 65px;
 }
 
 .info-secundaria .btn-register {
