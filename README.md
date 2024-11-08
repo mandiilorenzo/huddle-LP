@@ -17,7 +17,7 @@ Esta é uma solução para o desafio "Huddle landing page with a single introduc
 ### O desafio
 Consiste em realizar um layout (tanto para desktop quanto para mobile), de uma Landing Page da Huddle, que siga corretamente o design proposto e os estados de focos para elementos interativos.
 
-<img src="./src/images/huddle-lp.gif" alt="gif da tela inicial do projeto Huddle Landing Page">
+<img src="./src/images/huddle-lp2.gif">
 
 ### Link
 - URL do site ativo: https://mandiilorenzo.github.io/huddle-LP/
