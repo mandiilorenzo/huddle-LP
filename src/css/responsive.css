@@ -22,7 +22,11 @@
     }
 
     .container .info-principal .info-secundaria h1 {
-        font-size: 3.5rem;
+        font-size: 3rem;
+    }
+
+    .container .info-principal .info-secundaria p {
+        font-size: 1.5rem;
     }
 
     .footer .social {
